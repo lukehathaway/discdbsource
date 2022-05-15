@@ -1,0 +1,88 @@
+{
+  "molds": [
+    {
+      "manufacturer": "Axiom",
+      "name": "Envy"
+    },
+    {
+      "manufacturer": "Axiom",
+      "name": "Proxy"
+    },
+    {
+      "manufacturer": "Axiom",
+      "name": "Hex"
+    },
+    {
+      "manufacturer": "Discmania",
+      "name": "FD"
+    },
+    {
+      "manufacturer": "Discmania",
+      "name": "MD3"
+    },
+    {
+      "manufacturer": "Discmania",
+      "name": "Origin"
+    },
+    {
+      "manufacturer": "Discmania",
+      "name": "P2"
+    },
+    {
+      "manufacturer": "Discraft",
+      "name": "Buzzz"
+    },
+    {
+      "manufacturer": "Discraft",
+      "name": "Passion"
+    },
+    {
+      "manufacturer": "Discraft",
+      "name": "Zeus"
+    },
+    {
+      "manufacturer": "Discraft",
+      "name": "Zone"
+    },
+    {
+      "manufacturer": "Innova",
+      "name": "Firebird"
+    },
+    {
+      "manufacturer": "Kastaplast",
+      "name": "Berg"
+    },
+    {
+      "manufacturer": "Kastaplast",
+      "name": "Jarn"
+    },
+    {
+      "manufacturer": "Kastaplast",
+      "name": "Lots"
+    },
+    {
+      "manufacturer": "Mint",
+      "name": "Bobcat"
+    },
+    {
+      "manufacturer": "MVP",
+      "name": "Wave"
+    },
+    {
+      "manufacturer": "Thought Space Athletics",
+      "name": "Praxis"
+    },
+    {
+      "manufacturer": "Thought Space Athletics",
+      "name": "Votum"
+    },
+    {
+      "manufacturer": "Westside",
+      "name": "Stag"
+    },
+    {
+      "manufacturer": "Westside",
+      "name": "Sword"
+    }
+  ]
+}
