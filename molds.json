@@ -2,87 +2,91 @@
   "molds": [
     {
       "manufacturer": "Axiom",
-      "name": "Envy"
+      "name": "Envy",
+      "type": "Putter",
+        "flightNumbers": {
+          "speed": 3,
+          "glide": 3,
+          "turn": -1,
+          "fade": 2
+        }
     },
     {
       "manufacturer": "Axiom",
-      "name": "Proxy"
-    },
-    {
-      "manufacturer": "Axiom",
-      "name": "Hex"
-    },
-    {
-      "manufacturer": "Discmania",
-      "name": "FD"
-    },
-    {
-      "manufacturer": "Discmania",
-      "name": "MD3"
+      "name": "Hex",
+      "type": "Midrange",
+        "flightNumbers": {
+          "speed": 5,
+          "glide": 5,
+          "turn": -1,
+          "fade": 1
+        }
     },
     {
       "manufacturer": "Discmania",
-      "name": "Origin"
+      "name": "FD",
+      "type": "Fairway",
+        "flightNumbers": {
+          "speed": 7,
+          "glide": 6,
+          "turn": 0,
+          "fade": 1
+        }
     },
     {
       "manufacturer": "Discmania",
-      "name": "P2"
+      "name": "MD3",
+      "type": "Midrange",
+        "flightNumbers": {
+          "speed": 5,
+          "glide": 5,
+          "turn": 0,
+          "fade": 1
+        }
     },
     {
       "manufacturer": "Discraft",
-      "name": "Buzzz"
+      "name": "Buzzz",
+      "type": "Midrange",
+        "flightNumbers": {
+          "speed": 5,
+          "glide": 4,
+          "turn": -1,
+          "fade": 1
+        }
     },
     {
       "manufacturer": "Discraft",
-      "name": "Passion"
-    },
-    {
-      "manufacturer": "Discraft",
-      "name": "Zeus"
-    },
-    {
-      "manufacturer": "Discraft",
-      "name": "Zone"
-    },
-    {
-      "manufacturer": "Innova",
-      "name": "Firebird"
+      "name": "Anax",
+      "type": "Fairway",
+        "flightNumbers": {
+          "speed": 10,
+          "glide": 6,
+          "turn": 0,
+          "fade": 3
+        }
     },
     {
       "manufacturer": "Kastaplast",
-      "name": "Berg"
+      "name": "Berg",
+      "type": "Putter",
+        "flightNumbers": {
+          "speed": 1,
+          "glide": 1,
+          "turn": 0,
+          "fade": 2
+        }
     },
     {
       "manufacturer": "Kastaplast",
-      "name": "Jarn"
-    },
-    {
-      "manufacturer": "Kastaplast",
-      "name": "Lots"
-    },
-    {
-      "manufacturer": "Mint",
-      "name": "Bobcat"
-    },
-    {
-      "manufacturer": "MVP",
-      "name": "Wave"
-    },
-    {
-      "manufacturer": "Thought Space Athletics",
-      "name": "Praxis"
-    },
-    {
-      "manufacturer": "Thought Space Athletics",
-      "name": "Votum"
-    },
-    {
-      "manufacturer": "Westside",
-      "name": "Stag"
-    },
-    {
-      "manufacturer": "Westside",
-      "name": "Sword"
+      "name": "Lots",
+      "type": "Fairway",
+        "flightNumbers": {
+          "speed": 9,
+          "glide": 5,
+          "turn": -1,
+          "fade": 2
+        }
     }
   ]
 }
